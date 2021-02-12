@@ -18,4 +18,4 @@ A tutorial for learning Html &amp; CSS
 > _a:focus_ is included
 > nav menu underline is shrinked to the size of the text
 
-- Current progress in tutorial : **16.00**
+- Current progress in tutorial : **16.30**
