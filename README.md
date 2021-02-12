@@ -1,4 +1,5 @@
 # loruki_fake_website_tutorial
+
 A tutorial for learning Html &amp; CSS
 
 > This code is copied from [bradtraversy/loruki-website](https://github.com/bradtraversy/loruki-website), it's copied over here so you can study everything from one repo.
@@ -11,3 +12,8 @@ A tutorial for learning Html &amp; CSS
 
 > Fake cloud hosting website [Live Preview](https://zen-carson-c10c9f.netlify.app)
 
+### Personal Changes
+
+> A favicon is added
+
+- Current progress in tutorial : **0.0**
