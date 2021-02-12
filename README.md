@@ -25,4 +25,4 @@ A tutorial for learning Html &amp; CSS
 > shadow is darkened
 > Nav menu and Button outline on focus is removed
 
-- Current progress in tutorial : **40.00**
+- Current progress in tutorial : **51.25**
