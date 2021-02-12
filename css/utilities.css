@@ -38,6 +38,10 @@
   transform: scale(0.98);
 }
 
+.text-center {
+  text-align: center;
+}
+
 .flex {
   display: flex;
   justify-content: center;
@@ -56,4 +60,26 @@
 
 .grid-3 {
   grid-template-columns: repeat(3, 1fr);
+}
+
+/* margins */
+
+.marginY-1 {
+  margin: 1rem 0;
+}
+
+.marginY-2 {
+  margin: 1.5rem 0;
+}
+
+.marginY-3 {
+  margin: 2rem 0;
+}
+
+.marginY-4 {
+  margin: 3rem 0;
+}
+
+.marginY-5 {
+  margin: 4rem 0;
 }
