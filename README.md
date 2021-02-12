@@ -16,4 +16,4 @@ A tutorial for learning Html &amp; CSS
 
 > A favicon is added
 
-- Current progress in tutorial : **0.0**
+- Current progress in tutorial : **6.30**
