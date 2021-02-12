@@ -83,3 +83,23 @@
 .marginY-5 {
   margin: 4rem 0;
 }
+
+.margin-1 {
+  margin: 1rem;
+}
+
+.margin-2 {
+  margin: 1.5rem;
+}
+
+.margin-3 {
+  margin: 2rem;
+}
+
+.margin-4 {
+  margin: 3rem;
+}
+
+.margin-5 {
+  margin: 4rem;
+}
