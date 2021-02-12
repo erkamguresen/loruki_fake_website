@@ -23,5 +23,6 @@ A tutorial for learning Html &amp; CSS
 > '\*' is added to required form items
 > horizontal shadow is added to card class
 > shadow is darkened
+> Nav menu and Button outline on focus is removed
 
 - Current progress in tutorial : **30.00**
