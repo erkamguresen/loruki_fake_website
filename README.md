@@ -15,5 +15,6 @@ A tutorial for learning Html &amp; CSS
 ### Personal Changes
 
 > A favicon is added
+> _a:focus_ is included
 
-- Current progress in tutorial : **6.30**
+- Current progress in tutorial : **15.00**
