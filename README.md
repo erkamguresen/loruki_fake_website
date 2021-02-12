@@ -12,6 +12,8 @@ A tutorial for learning Html &amp; CSS
 
 > Fake cloud hosting website [Live Preview](https://zen-carson-c10c9f.netlify.app)
 
+> My version of website [My version Preview](https://erkamguresen.github.io/loruki_fake_website_tutorial/)
+
 ### Personal Changes
 
 > A favicon is added
