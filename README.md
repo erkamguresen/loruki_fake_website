@@ -16,5 +16,6 @@ A tutorial for learning Html &amp; CSS
 
 > A favicon is added
 > _a:focus_ is included
+> nav menu underline is shrinked to the size of the text
 
 - Current progress in tutorial : **15.00**
