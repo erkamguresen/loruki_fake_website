@@ -16,13 +16,13 @@ A tutorial for learning Html &amp; CSS
 
 ### Personal Changes
 
-> A favicon is added
-> _a:focus_ is included
-> nav menu underline is shrinked to the size of the text
+- A favicon is added
+- _a:focus_ is included
+- nav menu underline is shrinked to the size of the text
 
-> '\*' is added to required form items
-> horizontal shadow is added to card class
-> shadow is darkened
-> Nav menu and Button outline on focus is removed
+- '\*' is added to required form items
+- horizontal shadow is added to card class
+- shadow is darkened
+- Nav menu and Button outline on focus is removed
 
-- Current progress in tutorial : **54.15**
+- Current progress in tutorial : **57.46**
