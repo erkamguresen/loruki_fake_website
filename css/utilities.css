@@ -103,3 +103,45 @@
 .margin-5 {
   margin: 4rem;
 }
+
+/* paddings */
+
+.paddingY-1 {
+  padding: 1rem 0;
+}
+
+.paddingY-2 {
+  padding: 1.5rem 0;
+}
+
+.paddingY-3 {
+  padding: 2rem 0;
+}
+
+.paddingY-4 {
+  padding: 3rem 0;
+}
+
+.paddingY-5 {
+  padding: 4rem 0;
+}
+
+.padding-1 {
+  padding: 1rem;
+}
+
+.padding-2 {
+  padding: 1.5rem;
+}
+
+.padding-3 {
+  padding: 2rem;
+}
+
+.padding-4 {
+  padding: 3rem;
+}
+
+.padding-5 {
+  padding: 4rem;
+}
