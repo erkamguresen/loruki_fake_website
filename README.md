@@ -20,6 +20,8 @@ A tutorial for learning Html &amp; CSS
 > _a:focus_ is included
 > nav menu underline is shrinked to the size of the text
 
-> - is added to required form items
+> '\*' is added to required form items
+> horizontal shadow is added to card class
+> shadow is darkened
 
-- Current progress in tutorial : **20.00**
+- Current progress in tutorial : **30.00**
