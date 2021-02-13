@@ -139,9 +139,8 @@ img {
 
 .stats-heading {
   margin: auto;
-  /* justify-content: center; */
-  //TODO: fix this
-  max-width: 500px;
+  /* width: auto; */
+  max-width: 450px;
 }
 
 .stats .grid h3 {

@@ -24,5 +24,6 @@ A tutorial for learning Html &amp; CSS
 - horizontal shadow is added to card class
 - shadow is darkened
 - Nav menu and Button outline on focus is removed
+- Stats H3 does not centered so div.flex added
 
 - Current progress in tutorial : **1.00.14**
