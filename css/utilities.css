@@ -64,6 +64,15 @@
   color: #333;
 }
 
+.background-primary a,
+.button-primary a,
+.background-secondary a,
+.button-secondary a,
+.background-dark a,
+.button-dark a {
+  color: #fff;
+}
+
 /* Text Sizes */
 
 .lead-font {
