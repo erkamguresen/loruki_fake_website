@@ -30,4 +30,4 @@ A tutorial for learning Html &amp; CSS
 - responsive feature corrected for tablet and mobile devices(video tutorial code does not work correctly).
 - docs link card adjusted for mobile devices
 
-- Current progress in tutorial : **1.51.00**
+- Current progress in tutorial : **1.57.00**
