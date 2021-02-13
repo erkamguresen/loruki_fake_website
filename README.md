@@ -25,5 +25,7 @@ A tutorial for learning Html &amp; CSS
 - shadow is darkened
 - Nav menu and Button outline on focus is removed
 - Stats H3 does not centered so div.flex added
+- ".footer .grid " is added to @media
+- text in the footer is centered for tablets and smartphones
 
 - Current progress in tutorial : **1.22.00**

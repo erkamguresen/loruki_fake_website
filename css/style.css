@@ -207,7 +207,8 @@ img {
   .showcase .grid,
   .stats .grid,
   .cli .grid,
-  .cloud .grid {
+  .cloud .grid,
+  .footer .grid {
     grid-template-columns: 1fr;
   }
 
@@ -228,6 +229,10 @@ img {
   .cli .grid > *:first-child {
     grid-column: 1;
     grid-row: 1;
+  }
+
+  .footer .grid {
+    text-align: center;
   }
 }
 
