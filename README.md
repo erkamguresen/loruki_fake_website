@@ -26,4 +26,4 @@ A tutorial for learning Html &amp; CSS
 - Nav menu and Button outline on focus is removed
 - Stats H3 does not centered so div.flex added
 
-- Current progress in tutorial : **1.07.00**
+- Current progress in tutorial : **1.17.00**
