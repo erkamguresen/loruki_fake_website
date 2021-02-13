@@ -38,6 +38,54 @@
   transform: scale(0.98);
 }
 
+/* Backgrounds & Colored Buttons */
+
+.background-primary,
+.button-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.background-secondary,
+.button-secondary {
+  background-color: var(--secondary-color);
+  color: #fff;
+}
+
+.background-dark,
+.button-dark {
+  background-color: var(--dark-color);
+  color: #fff;
+}
+
+.background-light,
+.button-light {
+  background-color: var(--light-color);
+  color: #333;
+}
+
+/* Text Sizes */
+
+.lead-font {
+  font-size: 20px;
+}
+
+.small-font {
+  font-size: 1rem;
+}
+
+.medium-font {
+  font-size: 2rem;
+}
+
+.large-font {
+  font-size: 3rem;
+}
+
+.extralarge-font {
+  font-size: 4rem;
+}
+
 .text-center {
   text-align: center;
 }
