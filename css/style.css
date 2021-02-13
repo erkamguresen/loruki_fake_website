@@ -138,8 +138,10 @@ img {
 }
 
 .stats-heading {
-  max-width: 500px;
   margin: auto;
+  /* justify-content: center; */
+  //TODO: fix this
+  max-width: 500px;
 }
 
 .stats .grid h3 {
