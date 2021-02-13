@@ -28,4 +28,4 @@ A tutorial for learning Html &amp; CSS
 - ".footer .grid " is added to @media
 - text in the footer is centered for tablets and smartphones
 
-- Current progress in tutorial : **1.22.00**
+- Current progress in tutorial : **1.32.21**
