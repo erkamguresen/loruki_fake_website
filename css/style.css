@@ -193,3 +193,9 @@ img {
 .languages .card:focus {
   transform: translateY(-15px);
 }
+
+/* Footer */
+
+.footer .social a {
+  margin: 0 10px;
+}
