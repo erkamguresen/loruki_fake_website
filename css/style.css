@@ -267,7 +267,14 @@ pre {
   .stats .grid,
   .cli .grid,
   .cloud .grid,
-  .footer .grid {
+  .footer .grid,
+  .features-main .grid,
+  .docs-main .grid
+  /* TODO: Remove?
+  ,
+  .features-head .grid,
+  .features-sub-head .grid,
+  .docs-head .grid  */ {
     grid-template-columns: 1fr;
   }
 
@@ -293,11 +300,31 @@ pre {
   .footer .grid {
     text-align: center;
   }
+
+  .features-head,
+  .features-sub-head,
+  .docs-head {
+    text-align: center;
+  }
+
+  .features-head img,
+  .features-sub-head img,
+  .docs-head img {
+    justify-self: center;
+  }
 }
 
 /* Mobile */
 
 @media (max-width: 500px) {
+  .features-head .grid,
+  .features-sub-head .grid,
+  .docs-head .grid,
+  .docs-main .grid {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
   .navbar {
     height: 110px;
   }

@@ -27,5 +27,6 @@ A tutorial for learning Html &amp; CSS
 - Stats H3 does not centered so div.flex added
 - ".footer .grid " is added to @media
 - text in the footer is centered for tablets and smartphones
+- responsive feature corrected for tablet and mobile devices(video tutorial code does not work correctly).
 
-- Current progress in tutorial : **1.43.00**
+- Current progress in tutorial : **1.51.00**
