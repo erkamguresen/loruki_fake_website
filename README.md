@@ -24,6 +24,12 @@ A tutorial for learning Html &amp; CSS
 
 <!-- - Current progress in tutorial : **Finished** -->
 
+## Current progress in the tutorial
+
+![current position](https://img.shields.io/badge/finished%20lenght-02.02.21-brightgreen)
+
+![total length](https://img.shields.io/badge/total%20video%20lenght-02.02.21-red)
+
 ## Personal Changes
 
 - A favicon is added
