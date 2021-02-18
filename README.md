@@ -14,7 +14,17 @@ A tutorial for learning Html &amp; CSS
 
 > My version of website [My version Preview](https://erkamguresen.github.io/loruki_fake_website_tutorial/)
 
-### Personal Changes
+## Tutorial Status
+
+![Build Status](https://img.shields.io/badge/tutorial-completed-brightgreen)
+
+<!-- ![Build Status](https://img.shields.io/badge/build-work%20in%20progress-yellowgreen) -->
+
+<!-- ![Build Status](https://img.shields.io/badge/build-completed-brightgreen) -->
+
+<!-- - Current progress in tutorial : **Finished** -->
+
+## Personal Changes
 
 - A favicon is added
 - _a:focus_ is included
@@ -31,5 +41,3 @@ A tutorial for learning Html &amp; CSS
 - docs link card adjusted for mobile devices
 
 - **Netlify** is skipped
-
-- Current progress in tutorial : **Finished**
