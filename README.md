@@ -26,9 +26,7 @@ A tutorial for learning Html &amp; CSS
 
 ## Current progress in the tutorial
 
-![current position](https://img.shields.io/badge/finished%20lenght-02.02.21-brightgreen)
-
-![total length](https://img.shields.io/badge/total%20video%20lenght-02.02.21-red)
+![progress](https://img.shields.io/badge/Progress-02.02.21%20|%2002.02.21-brightgreen)
 
 ## Personal Changes
 
