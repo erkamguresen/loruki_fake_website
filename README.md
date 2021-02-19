@@ -24,7 +24,7 @@ A tutorial for learning Html &amp; CSS
 
 <!-- - Current progress in tutorial : **Finished** -->
 
-## Current progress in the tutorial
+## Current Progress In The Tutorial
 
 ![progress](https://img.shields.io/badge/Progress-02.02.21%20|%2002.02.21-brightgreen)
 
